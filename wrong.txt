@@ -1,0 +1,39 @@
+contact from sugar: Kathy Collins ,  H&R Block 
+find urls total: 643
+found url: http://www.linkedin.com/pub/kathy-collins/1A/B87/7A7
+
+ contact from sugar: Beau Brown ,  Mellennium 
+find urls total: 1,680
+found url: https://kr.linkedin.com/in/beaubrown?trk=seokp_posts_secondary_cluster_res_author_photo
+
+contact from sugar: Greg Olsen ,  A+ Federal Credit Union 
+find urls total: 3
+found url: https://www.linkedin.com/in/greg-olsen-4851142b
+
+contact from sugar: Doug Smith ,  Sprint Corporation TAP 
+find urls total: 27
+found url: https://www.linkedin.com/in/dougsmith1
+
+
+-----------------------------------------------------------------
+//no info on company at all
+ contact from sugar: Jocelyn Bonebrake ,  The CHP Group 
+find urls total: 1
+no linkedin result found
+
+contact from sugar: Tara Fortin ,  Boston Heart Diagnostics 
+find urls total: 0
+
+
+-----------------------------------------------------------------
+//need to add thresthold on company score
+contact from sugar: Joe Miller ,  24 HR Safety 
+find urls total: 1,570
+found url: https://www.linkedin.com/in/joemillersecurity
+
+
+ contact from sugar: Carl Stringer ,  Boards Direct 	 
+find urls total: 21
+found url: https://uk.linkedin.com/in/rob-stringer-ba354351
+
+
